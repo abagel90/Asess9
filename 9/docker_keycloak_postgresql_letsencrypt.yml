@@ -10,7 +10,7 @@ volumes:
 
 services:
   postgres:
-    image: bitnami/postgresql:15
+    image: bitnami/postgresql:16
     volumes:
       - keycloak-postgres:/var/lib/postgresql/data
     environment:
