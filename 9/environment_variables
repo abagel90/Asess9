@@ -1,4 +1,4 @@
-export KEYCLOAK_POSTGRES_IMAGE_TAG='bitnami/postgresql:15'
+export KEYCLOAK_POSTGRES_IMAGE_TAG='bitnami/postgresql:16'
 export KEYCLOAK_DB_NAME='keycloakdb'
 export KEYCLOAK_DB_USER='keycloakadmin'
 export KEYCLOAK_DB_PASSWORD='Qwerty123'
